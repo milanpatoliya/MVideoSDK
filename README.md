@@ -27,3 +27,4 @@ milanpatoliya, milanpatoliya95@gmail.com
 ## License
 
 MVideoSDK is available under the MIT license. See the LICENSE file for more info.
+

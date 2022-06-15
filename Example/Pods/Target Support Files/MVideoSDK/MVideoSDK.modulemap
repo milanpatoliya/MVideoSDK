@@ -1,0 +1,6 @@
+framework module MVideoSDK {
+  umbrella header "MVideoSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}

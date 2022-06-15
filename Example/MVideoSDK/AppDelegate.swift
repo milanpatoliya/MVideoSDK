@@ -1,7 +1,7 @@
 //
 //  AppDelegate.swift
 //  MVideoSDK
-//
+// https://github.com/milanpatoliya/MVideoSDK.git
 //  Created by milanpatoliya on 06/15/2022.
 //  Copyright (c) 2022 milanpatoliya. All rights reserved.
 //
